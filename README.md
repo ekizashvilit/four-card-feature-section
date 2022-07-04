@@ -39,9 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
 - LinkedIn - [Teona Ekizashvili](https://www.linkedin.com/in/teona-e-ba5725239/)
 - Twitter - [@ekizashvilit](https://twitter.com/ekizashvilit)
