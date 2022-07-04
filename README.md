@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Four Card Feature Section](https://your-live-site-url.com)
+- Live Site URL: [Four Card Feature Section](https://ekizashvilit.github.io/four-card-feature-section/)
 
 ## My process
 
